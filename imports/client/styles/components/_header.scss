@@ -1,0 +1,14 @@
+.header {
+  width: 100vw;
+  background-color: $brand-primary;
+  padding: 1rem 15%;
+}
+
+.header__content {
+  display: flex;
+  justify-content: space-between;
+  max-width: $site-max-width;
+  padding: 10 10;
+  margin: 0 15%;
+  color: white;
+}
